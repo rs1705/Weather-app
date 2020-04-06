@@ -1,3 +1,10 @@
+To run the app, download it or pull it.
+After downloading, open the directory in terminal and type
+
+`npm install`
+
+After the important files are downloaded, run `npm start` or `yarn start`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
